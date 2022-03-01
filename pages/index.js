@@ -11,7 +11,7 @@ export default function Home({ results }) {
   return (
     <div>
       <Head>
-        <title>Hulo 2.0 web app</title>
+        <title>Movie Finder</title>
          <link rel="icon" href="/favicon.ico" />
       </Head>
         <Header />
